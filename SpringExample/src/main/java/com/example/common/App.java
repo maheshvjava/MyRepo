@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Hello world!
- * Spring Example.
+ * Spring Maven Example.
  */
 public class App 
 {
